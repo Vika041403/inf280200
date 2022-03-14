@@ -7,7 +7,7 @@ int main(){
 for (i=1;i<=10;i++){
 	y=x*x;
 	cout<<x<<'\t'<<y<<endl;
-	x+=3;
+	x+=2;
 }
 return 0;
 }
